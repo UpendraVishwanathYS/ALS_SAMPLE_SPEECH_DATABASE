@@ -1,0 +1,26 @@
+Language: Bengali
+Severity: 1
+Audio File: 60010_193.mp3
+
+[ASR1 Transcript]:
+বাডি রারনায় 
+
+[ASR2 Transcript]:
+ভাতিজা না
+
+[ASR3 Transcript]:
+ 
+
+[HSR Transcript]:
+WOI:
+<GARBAGE>
+WOI:
+<CLICK>  মোমবাতি জালাছে
+WOI:
+<CLICK>  <LONGSIL> হুম বাতি জ্বালাচ্ছে
+WI:
+<CLICK>  <LONGSIL>  <PAUSE> বাজি জ্বালাচ্ছে
+WI:
+<GARBAGE>
+WI:
+<CLICK>   <LONGSIL>  মোম্বাতি জ্বালাচ্ছে

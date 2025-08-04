@@ -1,0 +1,26 @@
+Language: Kannada
+Severity: 1
+Audio File: 59619_105.mp3
+
+[ASR1 Transcript]:
+ಹಲಕವೆ 
+
+[ASR2 Transcript]:
+ಅಲಂಕಾರ
+
+[ASR3 Transcript]:
+ಅಲ್ಲ
+
+[HSR Transcript]:
+WOI:
+<CLICK>   <PAUSE>  ಹಲೋ  <GARBAGE>   <PAUSE>
+WOI:
+<GARBAGE>
+WOI:
+<CLICK>  ಹಾಲಾ ಕರಿ  <PAUSE>
+WI:
+<CLICK>  <LONGSIL> ಹಾಲು ಕರೀ  <CLICK>
+WI:
+<GARBAGE>
+WI:
+<CLICK> ಹಾಲು  <PAUSE> ಕರಿ  <LONGSIL>

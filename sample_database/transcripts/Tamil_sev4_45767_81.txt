@@ -1,0 +1,26 @@
+Language: Tamil
+Severity: 4
+Audio File: 45767_81.mp3
+
+[ASR1 Transcript]:
+கோட்டுவவர் அவதே. 
+
+[ASR2 Transcript]:
+கோடு போட அப்படியே
+
+[ASR3 Transcript]:
+கோட்டு அப்படியே
+
+[HSR Transcript]:
+WOI:
+ஓட்டம் ஓடறாப்படி   <LONGSIL>
+WOI:
+கோட்டுவாவிடுறாப்படி <LONGSIL>
+WOI:
+கோட்டோ ஓட்டறாப்படி   <LONGSIL>
+WI:
+கோட்டுவா உட்ராப்டி
+WI:
+<CLICK> கொட்டாவி விட்றாப்டி
+WI:
+கோட்டுவா உடறாப்படி  <LONGSIL>

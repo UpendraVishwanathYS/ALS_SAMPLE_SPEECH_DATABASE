@@ -1,0 +1,26 @@
+Language: Bengali
+Severity: 3
+Audio File: 59107_152.mp3
+
+[ASR1 Transcript]:
+বাট্সাকের খওভার্তে 
+
+[ASR2 Transcript]:
+বাচ্চাকে খাওয়াচ্ছে
+
+[ASR3 Transcript]:
+বাচ্চাকে 
+
+[HSR Transcript]:
+WOI:
+<LONGSIL>  বাচ্চাকে খাওয়াচ্ছে
+WOI:
+<CLICK>   <LONGSIL>  বাচ্ছা কে খাওয়াচ্ছে  <PAUSE>
+WOI:
+<CLICK>  বাচ্চা কে খাওয়াচেছ
+WI:
+<CLICK>   <LONGSIL> বাচ্ছাকে খাওয়াচ্ছে
+WI:
+<CLICK> বাচ্চাকে খাওয়াচ্ছে
+WI:
+<CLICK>  বাচ্চাকে খাওয়াচ্ছে

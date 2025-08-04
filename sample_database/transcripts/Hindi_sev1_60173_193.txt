@@ -1,0 +1,26 @@
+Language: Hindi
+Severity: 1
+Audio File: 60173_193.mp3
+
+[ASR1 Transcript]:
+ज 
+
+[ASR2 Transcript]:
+जया
+
+[ASR3 Transcript]:
+जा
+
+[HSR Transcript]:
+WOI:
+<CLICK>   <LONGSIL>   <GARBAGE>   <CLICK>
+WOI:
+<GARBAGE>
+WOI:
+<CLICK>   <LONGSIL>  दीवार  <LONGSIL>  बना रहे है
+WI:
+<CLICK>   <LONGSIL>  जवान मारा हुआ है  <PAUSE>
+WI:
+<GARBAGE>
+WI:
+<GARBAGE>

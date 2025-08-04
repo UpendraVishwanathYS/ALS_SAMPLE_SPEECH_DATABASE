@@ -1,0 +1,26 @@
+Language: Kannada
+Severity: 2
+Audio File: 50370_31.mp3
+
+[ASR1 Transcript]:
+ಉದಗ ದೇದೂವಿ ಉಳಯತ್ಿದ್ದಾನೆ 
+
+[ASR2 Transcript]:
+ಯುಗಾದಿ
+
+[ASR3 Transcript]:
+ನೀರು ಕುಡಿದಿದ್ದಾನೆ
+
+[HSR Transcript]:
+WOI:
+<CLICK> ಹುಡುಗ ನೀರನ್ನು ಕುಡಿಯುತ್ತಿದ್ದಾನೆ  <CLICK>
+WOI:
+<CLICK>  ಹುಡುಗ ನೀರನ್ನು ಕುದಿಯುತಿದ್ದಾನೆ
+WOI:
+<GARBAGE>
+WI:
+<CLICK>  ಹುಡುಗ ನೀರನು ಕುಡಿಯುತ್ತಿದಾನೆ  <CLICK>
+WI:
+ಹುಡುಗ ನೀರನ್ನು ಕುಡಿ ಯುತ್ತಿದ್ದಾನೆ
+WI:
+<CLICK> ಹುಡುಗ ನೀರನ್ನು ಕುಡಿಯುತಿದ್ದಾನೆ <CLICK>

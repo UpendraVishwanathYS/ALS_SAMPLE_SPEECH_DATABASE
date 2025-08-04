@@ -1,0 +1,26 @@
+Language: Hindi
+Severity: 3
+Audio File: 50049_75.mp3
+
+[ASR1 Transcript]:
+परवाजेक होटर वाला  
+
+[ASR2 Transcript]:
+दरवाजे खोल रहा है बालक
+
+[ASR3 Transcript]:
+परवाजे बाला
+
+[HSR Transcript]:
+WOI:
+वो दरवाज़ा खोलने वाला है   <LONGSIL>   <CLICK>
+WOI:
+<LONGSIL>  यह दरवाजा खोल रहा है बालक  <CLICK>
+WOI:
+दरवाज़े खोल दो ए बालक  <CLICK>
+WI:
+<CLICK>  ये दरवाज़ा खोल रहा है बालक
+WI:
+ये दरवाज़े खोल रहा है बालक  <CLICK>
+WI:
+ये दरवाजे खोलने वाला है  <CLICK>

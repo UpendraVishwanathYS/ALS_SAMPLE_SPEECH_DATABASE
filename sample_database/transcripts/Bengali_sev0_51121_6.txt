@@ -1,0 +1,26 @@
+Language: Bengali
+Severity: 0
+Audio File: 51121_6.mp3
+
+[ASR1 Transcript]:
+এইঅ্যানড 
+
+[ASR2 Transcript]:
+NA
+
+[ASR3 Transcript]:
+ 
+
+[HSR Transcript]:
+WOI:
+<GARBAGE>
+WOI:
+<GARBAGE>
+WOI:
+<CLICK>   <GARBAGE>
+WI:
+<CLICK>   <GARBAGE>
+WI:
+<GARBAGE>
+WI:
+<CLICK>  হাতি গাড়ি চালাচ্ছে

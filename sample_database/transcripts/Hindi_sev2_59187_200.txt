@@ -1,0 +1,26 @@
+Language: Hindi
+Severity: 2
+Audio File: 59187_200.mp3
+
+[ASR1 Transcript]:
+बैर फूटे  
+
+[ASR2 Transcript]:
+भेलपुरी
+
+[ASR3 Transcript]:
+बेड
+
+[HSR Transcript]:
+WOI:
+<CLICK> भेलपुरी  <LONGSIL>  <CLICK>
+WOI:
+<CLICK> भेल पुरी <CLICK>
+WOI:
+<CLICK>  बैड पूरी
+WI:
+<CLICK> भेलपुरी
+WI:
+<CLICK>  <LONGSIL>  भेल पूरी
+WI:
+<CLICK>  भेलपुरी

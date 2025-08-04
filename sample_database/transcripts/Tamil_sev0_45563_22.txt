@@ -1,0 +1,26 @@
+Language: Tamil
+Severity: 0
+Audio File: 45563_22.mp3
+
+[ASR1 Transcript]:
+ரங்கநான ரெக 
+
+[ASR2 Transcript]:
+NA
+
+[ASR3 Transcript]:
+ஆஹ் ஆஹ் ஆஹ்
+
+[HSR Transcript]:
+WOI:
+<GARBAGE>
+WOI:
+<GARBAGE>
+WOI:
+ஹா ஹா ஹா ஹா
+WI:
+<GARBAGE>
+WI:
+<GARBAGE>
+WI:
+<LONGSIL>  ஹேங் அஅ   <LONGSIL>

@@ -1,0 +1,26 @@
+Language: Telugu
+Severity: 1
+Audio File: 46989_108.mp3
+
+[ASR1 Transcript]:
+ిననశంమతా  
+
+[ASR2 Transcript]:
+తిన్నావా
+
+[ASR3 Transcript]:
+పిల్లలు
+
+[HSR Transcript]:
+WOI:
+<LONGSIL>  ఇనన్నాం  <PAUSE>  చూపిస్థుంనమా
+WOI:
+<GARBAGE>
+WOI:
+<GARBAGE>
+WI:
+<LONGSIL>  ఏందో చూపిస్తన్నాడు
+WI:
+పిళ్ళలు చుస్తున్నారు
+WI:
+<CLICK>   <LONGSIL> కిందేందో  చుపితన్నాడు  <CLICK>

@@ -1,0 +1,26 @@
+Language: Telugu
+Severity: 0
+Audio File: 48760_171.mp3
+
+[ASR1 Transcript]:
+నపచే  
+
+[ASR2 Transcript]:
+NA
+
+[ASR3 Transcript]:
+ఇది
+
+[HSR Transcript]:
+WOI:
+<CLICK>  <LONGSIL> ఇంక చాలు  <GARBAGE> పెరిగిద్ది
+WOI:
+<GARBAGE>
+WOI:
+<GARBAGE>
+WI:
+<CLICK>  <LONGSIL> ఒకామె  <PAUSE> గేదె పాలు పిండుతుంది
+WI:
+<GARBAGE>
+WI:
+<GARBAGE>

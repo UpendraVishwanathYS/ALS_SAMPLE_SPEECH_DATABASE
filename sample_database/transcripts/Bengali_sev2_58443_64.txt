@@ -1,0 +1,26 @@
+Language: Bengali
+Severity: 2
+Audio File: 58443_64.mp3
+
+[ASR1 Transcript]:
+ও বুমর্র পর্ডার 
+
+[ASR2 Transcript]:
+ওগো মর্দ বর্ডার
+
+[ASR3 Transcript]:
+ 
+
+[HSR Transcript]:
+WOI:
+<GARBAGE>
+WOI:
+<CLICK>  ও পুমর্তুং উপর্টার
+WOI:
+<GARBAGE>
+WI:
+<GARBAGE>
+WI:
+<GARBAGE>
+WI:
+<GARBAGE>

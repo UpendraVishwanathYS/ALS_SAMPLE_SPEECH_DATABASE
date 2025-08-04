@@ -1,0 +1,26 @@
+Language: Bengali
+Severity: 4
+Audio File: 57482_199.mp3
+
+[ASR1 Transcript]:
+রাননা করে খামার খেয়ে ভিচ্চা 
+
+[ASR2 Transcript]:
+রান্নাঘর এ খাবার খেয়েছিস
+
+[ASR3 Transcript]:
+রান্নাঘরে খাবার খেয়ে দিচ্ছেন 
+
+[HSR Transcript]:
+WOI:
+<CLICK>  <LONGSIL> রান্নাঘরে  <LONGSIL> খাবার খেতে দিচ্ছে
+WOI:
+<CLICK>   <LONGSIL>  রান্নাঘরে খাবার খেতে দিচ্ছে
+WOI:
+<CLICK> রান্নাঘরে খাবার খেতে দিচ্ছে।
+WI:
+<CLICK>  রান্না করে  <PAUSE>  খাবার খেতে দিচ্ছে
+WI:
+<CLICK>   <LONGSIL>  রান্নাঘরে  <LONGSIL>  খাবার খেতে দিচ্ছে
+WI:
+<CLICK>  <LONGSIL> রান্না করে খাবার খাতে দিচ্ছে <PAUSE>

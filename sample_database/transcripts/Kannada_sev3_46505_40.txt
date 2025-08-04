@@ -1,0 +1,26 @@
+Language: Kannada
+Severity: 3
+Audio File: 46505_40.mp3
+
+[ASR1 Transcript]:
+ಆರ್ಗೊಳಿತಾದನೆ 
+
+[ASR2 Transcript]:
+ಆಗುತ್ತದೆ
+
+[ASR3 Transcript]:
+ಕುಡಿದು
+
+[HSR Transcript]:
+WOI:
+<CLICK> ಹಾಲು ಕುಡಿತಯಿದಾನೆ
+WOI:
+<CLICK>   <CLICK>   <LONGSIL>  ಹಾಲ್ ಕುದಿತಾಯ್ದಾನೆ   <LONGSIL>
+WOI:
+<CLICK>  ಹಾಲ್ ಕುಡಿತಾಯ್ದಾನೆ
+WI:
+<CLICK>  ಹಾಲು ಕುಡಿತಾಯ್ದನೇ
+WI:
+<CLICK>   <LONGSIL>  ಹಾಲು ಕುಡಿತಾಯಿದ್ದಾರೆ  <CLICK>
+WI:
+<CLICK> ಹಾಲ್ ಕುಡಿತಾ ಇದಾನೆ

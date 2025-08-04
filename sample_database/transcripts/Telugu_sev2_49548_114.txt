@@ -1,0 +1,26 @@
+Language: Telugu
+Severity: 2
+Audio File: 49548_114.mp3
+
+[ASR1 Transcript]:
+ఇరామంతా చేస్తాాు  
+
+[ASR2 Transcript]:
+ఫిదా mamata jagan
+
+[ASR3 Transcript]:
+ఇదంతా చేస్తున్నారు
+
+[HSR Transcript]:
+WOI:
+<CLICK>    <LONGSIL>  ఈతావా  వంట చేస్తున్నారు
+WOI:
+<LONGSIL>   <CLICK>  ఇక్కడ వంట చేస్తున్నారు
+WOI:
+<CLICK>  <GARBAGE>
+WI:
+<CLICK>  <LONGSIL> ఈయన వంట చేస్తున్నాడు
+WI:
+ఏదో వంట చేస్తన్నారు
+WI:
+<CLICK>   <LONGSIL>  ఎదో వంట చెత్తన్నారు

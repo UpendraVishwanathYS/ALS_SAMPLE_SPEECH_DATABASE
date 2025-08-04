@@ -1,0 +1,26 @@
+Language: Telugu
+Severity: 3
+Audio File: 48838_103.mp3
+
+[ASR1 Transcript]:
+  
+
+[ASR2 Transcript]:
+NA
+
+[ASR3 Transcript]:
+నడుస్తున్నారు
+
+[HSR Transcript]:
+WOI:
+<CLICK>   <LONGSIL>  వీలు రొడ్డు మీద నడుస్తున్నారు
+WOI:
+<CLICK>   <LONGSIL>  ఇలా రోడ్డుమీద నడుస్తున్నాను
+WOI:
+<GARBAGE>  <LONGSIL>  <CLICK> యావ్ వాడు దున్నేదానికివస్తున్నాడు
+WI:
+<CLICK>    <LONGSIL>  వీళ్ళు రోడ్డు మీద నడుస్తున్నారు
+WI:
+వీలు  రోడ్డు మీద నడుస్తున్నారు
+WI:
+<CLICK>  <LONGSIL> వీళ్ళు రోడ్ మీద నడుస్తున్నాడు

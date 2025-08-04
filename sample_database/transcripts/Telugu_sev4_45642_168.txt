@@ -1,0 +1,26 @@
+Language: Telugu
+Severity: 4
+Audio File: 45642_168.mp3
+
+[ASR1 Transcript]:
+కట్టింగ్ అస్తున్నారు  
+
+[ASR2 Transcript]:
+కటింగ్ చేస్తున్నారు
+
+[ASR3 Transcript]:
+కటింగ్ వేస్తున్నారు
+
+[HSR Transcript]:
+WOI:
+<LONGSIL>   <CLICK>  కటింగ్ ఎల్తున్నారు  <CLICK>
+WOI:
+<LONGSIL>  కటింగ్ యాస్తున్నారు
+WOI:
+<LONGSIL> కటింగ్ కి వెళ్తున్నారు  <GARBAGE>
+WI:
+<LONGSIL>  కటింగ్ చేస్తున్నారు
+WI:
+<CLICK> కటింగ్ చేస్టున్నాడు
+WI:
+<LONGSIL> కటింగ్ చేస్తన్నారు

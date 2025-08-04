@@ -1,0 +1,26 @@
+Language: Kannada
+Severity: 0
+Audio File: 45470_193.mp3
+
+[ASR1 Transcript]:
+ಆಆೂ ಅಂದಾನನಾ 
+
+[ASR2 Transcript]:
+NA
+
+[ASR3 Transcript]:
+ಅದು
+
+[HSR Transcript]:
+WOI:
+<GARBAGE>
+WOI:
+<CLICK>   <LONGSIL>  ಆ  <PAUSE>  ಅವರು ನನ್ನ
+WOI:
+<GARBAGE>
+WI:
+<GARBAGE>
+WI:
+<GARBAGE>
+WI:
+<GARBAGE>

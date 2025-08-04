@@ -1,0 +1,26 @@
+Language: Hindi
+Severity: 0
+Audio File: 53792_126.mp3
+
+[ASR1 Transcript]:
+मानज  
+
+[ASR2 Transcript]:
+मान जा
+
+[ASR3 Transcript]:
+मां
+
+[HSR Transcript]:
+WOI:
+<CLICK>  हैं मत दे हैं
+WOI:
+<GARBAGE>
+WOI:
+<CLICK>  ये मंदिर है
+WI:
+<CLICK>   <LONGSIL>   <PAUSE>  मंदिर  <PAUSE>   <CLICK>
+WI:
+मंदिर  <GARBAGE>
+WI:
+<CLICK>  <LONGSIL> मंदिर है

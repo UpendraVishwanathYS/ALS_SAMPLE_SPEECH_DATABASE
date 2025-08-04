@@ -1,0 +1,38 @@
+Language: Hindi
+Severity: 3
+Audio File: 52250_135.mp3
+
+[ASR1 Transcript]:
+सैकल मावाखा  
+
+[ASR2 Transcript]:
+शक्ल मावा देख रहा है
+
+[ASR3 Transcript]:
+साइकिल देख रहा है
+
+[HSR Transcript]:
+WOI:
+<CLICK>   <LONGSIL>  वो साइकिल चला
+WOI:
+<CLICK>   <LONGSIL>  वो साइकिल चला
+WOI:
+<CLICK>  <LONGSIL> वो साइकिल में हवा देख रहा है
+WOI:
+<CLICK>  <LONGSIL> वो साइकिल में हवा देख रहा है
+WOI:
+<CLICK>  वो सकल माला जैसा है
+WOI:
+<CLICK>  वो सकल माला जैसा है
+WI:
+<CLICK>  <LONGSIL> वो साईकल में हवा देख रहा है
+WI:
+<CLICK>  <LONGSIL> वो साईकल में हवा देख रहा है
+WI:
+<CLICK> वो साइकिल में हवा देख रहा है
+WI:
+<CLICK> वो साइकिल में हवा देख रहा है
+WI:
+<CLICK>  <LONGSIL> वो साइकिल में हवा देख रहा है
+WI:
+<CLICK>  <LONGSIL> वो साइकिल में हवा देख रहा है

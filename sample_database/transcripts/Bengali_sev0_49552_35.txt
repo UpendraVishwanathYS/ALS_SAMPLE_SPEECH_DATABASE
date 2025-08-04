@@ -1,0 +1,38 @@
+Language: Bengali
+Severity: 0
+Audio File: 49552_35.mp3
+
+[ASR1 Transcript]:
+অঅঅনঅ 
+
+[ASR2 Transcript]:
+রিলমে
+
+[ASR3 Transcript]:
+ 
+
+[HSR Transcript]:
+WOI:
+<GARBAGE>
+WOI:
+<GARBAGE>
+WOI:
+<GARBAGE>
+WOI:
+<GARBAGE>
+WOI:
+<GARBAGE>
+WOI:
+<GARBAGE>
+WI:
+<CLICK>  ধান কাটছে
+WI:
+<CLICK>  ধান কাটছে
+WI:
+<GARBAGE>
+WI:
+<GARBAGE>
+WI:
+<GARBAGE>
+WI:
+<GARBAGE>

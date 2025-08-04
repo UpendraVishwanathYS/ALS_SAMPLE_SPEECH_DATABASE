@@ -1,0 +1,38 @@
+Language: Kannada
+Severity: 4
+Audio File: 48836_202.mp3
+
+[ASR1 Transcript]:
+ಮೀರು ಮಾರಾಟದಲ್ಲಿರುವ ಹಜ್ಜಿ 
+
+[ASR2 Transcript]:
+ಮೀನು ಮಾರಾಟದಲ್ಲಿ ಇರುವ ಅಜ್ಜಿ
+
+[ASR3 Transcript]:
+ಮೀನು ಮಾರಾಟದಲ್ಲಿರುವ ಹಜ್ಜಿ
+
+[HSR Transcript]:
+WOI:
+<CLICK>  <LONGSIL> ನೀನು ಮಾರಾಟದಲ್ಲಿರುವ ಅಜ್ಜಿ
+WOI:
+<CLICK>  <LONGSIL> ನೀನು ಮಾರಾಟದಲ್ಲಿರುವ ಅಜ್ಜಿ
+WOI:
+<CLICK>   <LONGSIL>  ಮೀನು ಮಾರಾಟದಲ್ಲಿರುವ ಸಜ್ಜಿ  <CLICK>
+WOI:
+<CLICK>   <LONGSIL>  ಮೀನು ಮಾರಾಟದಲ್ಲಿರುವ ಸಜ್ಜಿ  <CLICK>
+WOI:
+<CLICK>  ಮೀನು ಮಾರಾಟದಲ್ಲಿರುವ ಹಜ್ಜಿ <CLICK>
+WOI:
+<CLICK>  ಮೀನು ಮಾರಾಟದಲ್ಲಿರುವ ಹಜ್ಜಿ <CLICK>
+WI:
+<CLICK> ಮೀನು ಮಾರಾಟದಲ್ಲಿರುವ ಅಜ್ಜಿ
+WI:
+<CLICK> ಮೀನು ಮಾರಾಟದಲ್ಲಿರುವ ಅಜ್ಜಿ
+WI:
+<CLICK>   <LONGSIL> ಮೀನು ಮಾರಾಟದಲ್ಲಿರುವ ಅಜ್ಜಿ  <CLICK>
+WI:
+<CLICK>   <LONGSIL> ಮೀನು ಮಾರಾಟದಲ್ಲಿರುವ ಅಜ್ಜಿ  <CLICK>
+WI:
+ಮೀನು ಮಾರಾಟದಲ್ಲಿ ಇರುವ ಅಜ್ಜಿ
+WI:
+ಮೀನು ಮಾರಾಟದಲ್ಲಿ ಇರುವ ಅಜ್ಜಿ

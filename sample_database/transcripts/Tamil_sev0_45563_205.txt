@@ -1,0 +1,38 @@
+Language: Tamil
+Severity: 0
+Audio File: 45563_205.mp3
+
+[ASR1 Transcript]:
+ஏழென எழு. 
+
+[ASR2 Transcript]:
+NA
+
+[ASR3 Transcript]:
+ஆஹ் ஆஹ் ஆஹ்
+
+[HSR Transcript]:
+WOI:
+<GARBAGE>
+WOI:
+<GARBAGE>
+WOI:
+<GARBAGE>
+WOI:
+<GARBAGE>
+WOI:
+ஹ ஹா ஹா ஹா ஹ
+WOI:
+ஹ ஹா ஹா ஹா ஹ
+WI:
+<GARBAGE>
+WI:
+<GARBAGE>
+WI:
+<GARBAGE>
+WI:
+<GARBAGE>
+WI:
+அன் இன்  இன் ன் இன் இன்
+WI:
+அன் இன்  இன் ன் இன் இன்

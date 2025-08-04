@@ -1,0 +1,38 @@
+Language: Bengali
+Severity: 4
+Audio File: 57482_189.mp3
+
+[ASR1 Transcript]:
+যঙ্গল আগুন ধরছে 
+
+[ASR2 Transcript]:
+জঙ্গলে আগুন ধরেছে
+
+[ASR3 Transcript]:
+জঙ্গলে আগুন ধরছে 
+
+[HSR Transcript]:
+WOI:
+<CLICK>   <LONGSIL>  জঙ্গলে আগুন ধরাচ্ছে
+WOI:
+<CLICK>   <LONGSIL>  জঙ্গলে আগুন ধরাচ্ছে
+WOI:
+<CLICK>  <LONGSIL> জঙ্গলে আগুন ধরছে
+WOI:
+<CLICK>  <LONGSIL> জঙ্গলে আগুন ধরছে
+WOI:
+<CLICK>   <LONGSIL>  জঙ্গলে আগুন ধরাচ্ছে
+WOI:
+<CLICK>   <LONGSIL>  জঙ্গলে আগুন ধরাচ্ছে
+WI:
+<CLICK>   <LONGSIL>  জঙ্গলে আগুন ধরাচ্ছে
+WI:
+<CLICK>   <LONGSIL>  জঙ্গলে আগুন ধরাচ্ছে
+WI:
+<CLICK>   <LONGSIL>  জঙ্গলে আগুন ধরাচ্ছে
+WI:
+<CLICK>   <LONGSIL>  জঙ্গলে আগুন ধরাচ্ছে
+WI:
+<CLICK>   <LONGSIL>  জঙ্গলে আগুন ধরাচ্ছে
+WI:
+<CLICK>   <LONGSIL>  জঙ্গলে আগুন ধরাচ্ছে

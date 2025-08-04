@@ -1,0 +1,38 @@
+Language: Hindi
+Severity: 4
+Audio File: 54626_131.mp3
+
+[ASR1 Transcript]:
+नवाज़ा नवाज़ अजा कर रहा है  
+
+[ASR2 Transcript]:
+नवाज नवाज अदा कर रहा है
+
+[ASR3 Transcript]:
+नवाज अदा कर रहा है
+
+[HSR Transcript]:
+WOI:
+<CLICK>  नावजद  <CLICK>  नवजादा कर रहा है
+WOI:
+<CLICK>  नावजद  <CLICK>  नवजादा कर रहा है
+WOI:
+<CLICK> नमाज  <PAUSE>  <CLICK> नमाज अदा कर रहा है
+WOI:
+<CLICK> नमाज  <PAUSE>  <CLICK> नमाज अदा कर रहा है
+WOI:
+<CLICK> नवाज़ सब  <LONGSIL> नवाज़आज़ाद कर रहा है
+WOI:
+<CLICK> नवाज़ सब  <LONGSIL> नवाज़आज़ाद कर रहा है
+WI:
+<CLICK> नमाज़ अद <CLICK> नमाज़ अदा कर रहा है
+WI:
+<CLICK> नमाज़ अद <CLICK> नमाज़ अदा कर रहा है
+WI:
+<CLICK>  नवाज अदा कर रहा है
+WI:
+<CLICK>  नवाज अदा कर रहा है
+WI:
+<CLICK>  नवाज़ अ  <PAUSE>  नवाज़ अदा कर रहा है
+WI:
+<CLICK>  नवाज़ अ  <PAUSE>  नवाज़ अदा कर रहा है

@@ -1,0 +1,38 @@
+Language: Kannada
+Severity: 0
+Audio File: 45470_136.mp3
+
+[ASR1 Transcript]:
+ಓಲವಾಲಾನಾ ಅ 
+
+[ASR2 Transcript]:
+NA
+
+[ASR3 Transcript]:
+ಮಾದಕ ವಸ್ತುಗಳನ್ನು ಬಳಸಿಕೊಳ್ಳಲು ಸರ್ಕಾರ ಬದ್ಧವಾಗಿದೆ
+
+[HSR Transcript]:
+WOI:
+<CLICK>   <LONGSIL>   ಆನು ಆನನ ಅವನ
+WOI:
+<CLICK>   <LONGSIL>   ಆನು ಆನನ ಅವನ
+WOI:
+<GARBAGE>
+WOI:
+<GARBAGE>
+WOI:
+<GARBAGE>
+WOI:
+<GARBAGE>
+WI:
+<GARBAGE>
+WI:
+<GARBAGE>
+WI:
+<GARBAGE>
+WI:
+<GARBAGE>
+WI:
+<GARBAGE>
+WI:
+<GARBAGE>

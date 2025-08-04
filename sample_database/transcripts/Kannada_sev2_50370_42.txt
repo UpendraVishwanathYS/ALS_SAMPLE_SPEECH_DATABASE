@@ -1,0 +1,38 @@
+Language: Kannada
+Severity: 2
+Audio File: 50370_42.mp3
+
+[ASR1 Transcript]:
+ಉಲಯ ಭೊಸ್ರಗಳಲವ ನಿದ್ದಾನೆ 
+
+[ASR2 Transcript]:
+ಹೃದಯದಲ್ಲಿ
+
+[ASR3 Transcript]:
+ಹಾಗಿದ್ದಾನೆ
+
+[HSR Transcript]:
+WOI:
+<CLICK>   <LONGSIL>  ಹುಡುಗ ಪುಸ್ತಕವನ್ನು ಓಧುತಿದ್ದಾನೆ
+WOI:
+<CLICK>   <LONGSIL>  ಹುಡುಗ ಪುಸ್ತಕವನ್ನು ಓಧುತಿದ್ದಾನೆ
+WOI:
+<CLICK> ಹುಡುಗ ಪುಸ್ತಕಗಳನ್ನು ಓದುತ್ತಿದಾನೇ
+WOI:
+<CLICK> ಹುಡುಗ ಪುಸ್ತಕಗಳನ್ನು ಓದುತ್ತಿದಾನೇ
+WOI:
+<CLICK>  ಹುಡ್ಗ ಪುಸ್ತಕವನ್ನು ಓದುತ್ತಿದ್ದಾನೆ   <CLICK>
+WOI:
+<CLICK>  ಹುಡ್ಗ ಪುಸ್ತಕವನ್ನು ಓದುತ್ತಿದ್ದಾನೆ   <CLICK>
+WI:
+<CLICK>  <LONGSIL>  ಹುಡುಗ ಬಸಲ್ಲೆ ಹೋದ್ದು ತಿದಾನೆ  <CLICK>
+WI:
+<CLICK>  <LONGSIL>  ಹುಡುಗ ಬಸಲ್ಲೆ ಹೋದ್ದು ತಿದಾನೆ  <CLICK>
+WI:
+<CLICK>  ಹುಡುಗ ಪುಸ್ತಕವನ್ನು ಓದುತ್ತಿದ್ದಾನೆ  <CLICK>
+WI:
+<CLICK>  ಹುಡುಗ ಪುಸ್ತಕವನ್ನು ಓದುತ್ತಿದ್ದಾನೆ  <CLICK>
+WI:
+<CLICK>  ಹುಡುಗ ಪುಸ್ತಕವನ್ನು ಓದುತ್ತಿದ್ದಾನೆ
+WI:
+<CLICK>  ಹುಡುಗ ಪುಸ್ತಕವನ್ನು ಓದುತ್ತಿದ್ದಾನೆ

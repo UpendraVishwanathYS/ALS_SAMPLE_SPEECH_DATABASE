@@ -1,0 +1,38 @@
+Language: Telugu
+Severity: 1
+Audio File: 46989_114.mp3
+
+[ASR1 Transcript]:
+వంటత  
+
+[ASR2 Transcript]:
+NA
+
+[ASR3 Transcript]:
+అంటే అంతా
+
+[HSR Transcript]:
+WOI:
+<LONGSIL> వంట చేస్తున్నారు
+WOI:
+<LONGSIL> వంట చేస్తున్నారు
+WOI:
+అంటే ఎంత
+WOI:
+అంటే ఎంత
+WOI:
+<LONGSIL> వంట చేస్థాన్ది
+WOI:
+<LONGSIL> వంట చేస్థాన్ది
+WI:
+<CLICK>   <LONGSIL>  వంట చేస్తాన్నారు  <CLICK>
+WI:
+<CLICK>   <LONGSIL>  వంట చేస్తాన్నారు  <CLICK>
+WI:
+<LONGSIL>  వంట చేస్తోంది
+WI:
+<LONGSIL>  వంట చేస్తోంది
+WI:
+<CLICK>  వంట చేతన్నారు
+WI:
+<CLICK>  వంట చేతన్నారు

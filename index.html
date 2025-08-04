@@ -2,77 +2,147 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Audio Sample Grid</title>
+  <title>Speech Samples Viewer</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       padding: 20px;
     }
+
     h2 {
       margin-top: 40px;
-      color: #333;
     }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-bottom: 40px;
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 20px;
     }
-    th, td {
-      border: 1px solid #ccc;
-      padding: 10px;
-      text-align: left;
-      vertical-align: middle;
+
+    .card {
+      border: 1px solid #ddd;
+      padding: 15px;
+      border-radius: 10px;
+      box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
     }
-    th {
-      background-color: #f0f0f0;
-    }
+
     audio {
-      width: 300px;
+      width: 100%;
+      margin-top: 10px;
+    }
+
+    .transcript {
+      display: none;
+      white-space: pre-wrap;
+      background: #f7f7f7;
+      border: 1px dashed #aaa;
+      margin-top: 10px;
+      padding: 10px;
+    }
+
+    .show-btn {
+      margin-top: 10px;
+      padding: 5px 10px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+
+    .show-btn:hover {
+      background-color: #0056b3;
     }
   </style>
 </head>
 <body>
 
-  <h1>Audio File Samples by Language and Severity</h1>
+  <h1>Speech Audio Samples</h1>
 
-  <!-- Table Example: Replace this section dynamically with your data -->
-  <h2>Language: Hindi</h2>
-  <table>
-    <tr>
-      <th>Severity</th>
-      <th>Audio</th>
-      <th>Filename</th>
-    </tr>
-    <tr>
-      <td>0</td>
-      <td><audio controls src="sample_database/audio_files/Hindi_0_sample1.wav"></audio></td>
-      <td>Hindi_0_sample1.wav</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td><audio controls src="sample_database/audio_files/Hindi_1_sample2.wav"></audio></td>
-      <td>Hindi_1_sample2.wav</td>
-    </tr>
-  </table>
+  <div id="content" class="grid">
+    <!-- Cards will be dynamically inserted here -->
+  </div>
 
-  <h2>Language: Telugu</h2>
-  <table>
-    <tr>
-      <th>Severity</th>
-      <th>Audio</th>
-      <th>Filename</th>
-    </tr>
-    <tr>
-      <td>0</td>
-      <td><audio controls src="sample_database/audio_files/Telugu_0_sample1.wav"></audio></td>
-      <td>Telugu_0_sample1.wav</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td><audio controls src="sample_database/audio_files/Telugu_3_sample5.wav"></audio></td>
-      <td>Telugu_3_sample5.wav</td>
-    </tr>
-  </table>
+  <script>
+    const audioDir = "sample_database/audio_files/";
+    const transcriptDir = "sample_database/transcripts/";
+
+    // List your files manually or fetch via backend (not possible with pure HTML)
+    const audioFiles = [
+      'Tamil_sev0_45563_22.wav',
+      'Bengali_sev0_51121_6.wav',
+      'Kannada_sev2_50370_31.wav',
+      'Bengali_sev2_58443_64.wav',
+      'Tamil_sev4_45767_81.wav',
+      'Hindi_sev1_60173_193.wav',
+      'Kannada_sev4_48836_162.wav',
+      'Bengali_sev1_60010_193.wav',
+      'Telugu_sev2_49548_114.wav',
+      'Telugu_sev1_46989_108.wav',
+      'Kannada_sev0_45470_193.wav',
+      'Hindi_sev0_53792_126.wav',
+      'Bengali_sev3_59107_152.wav',
+      'Hindi_sev4_54626_80.wav',
+      'Kannada_sev3_46505_40.wav',
+      'Hindi_sev3_50049_75.wav',
+      'Tamil_sev1_51461_162.wav',
+      'Telugu_sev4_45642_168.wav',
+      'Hindi_sev2_59187_200.wav',
+      'Bengali_sev4_57482_199.wav',
+      'Tamil_sev2_59217_154.wav',
+      'Kannada_sev1_59619_105.wav',
+      'Telugu_sev3_48838_103.wav',
+      'Telugu_sev0_48760_171.wav'
+    ];
+
+    const contentDiv = document.getElementById("content");
+
+    audioFiles.forEach(file => {
+      const [lang, sev] = file.split('_').slice(0, 2); // "English", "sev0"
+      const transcriptFile = file.replace('.wav', '.txt');
+
+      const card = document.createElement('div');
+      card.className = 'card';
+
+      card.innerHTML = `
+        <strong>Language:</strong> ${lang}<br>
+        <strong>Severity:</strong> ${sev.replace("sev", "")}<br>
+        <strong>File:</strong> ${file}<br>
+        <audio controls src="${audioDir + file}"></audio>
+        <button class="show-btn" onclick="toggleTranscript(this, '${transcriptDir + transcriptFile}')">Show Transcript</button>
+        <div class="transcript" id="transcript-${file.replace('.wav', '')}">Loading...</div>
+      `;
+
+      contentDiv.appendChild(card);
+    });
+
+    function toggleTranscript(button, transcriptPath) {
+      const container = button.nextElementSibling;
+
+      if (container.style.display === 'block') {
+        container.style.display = 'none';
+        button.textContent = 'Show Transcript';
+        return;
+      }
+
+      if (container.textContent === 'Loading...') {
+        fetch(transcriptPath)
+          .then(res => res.text())
+          .then(data => {
+            container.textContent = data;
+            container.style.display = 'block';
+            button.textContent = 'Hide Transcript';
+          })
+          .catch(err => {
+            container.textContent = "Transcript not found.";
+            container.style.display = 'block';
+          });
+      } else {
+        container.style.display = 'block';
+        button.textContent = 'Hide Transcript';
+      }
+    }
+  </script>
 
 </body>
 </html>

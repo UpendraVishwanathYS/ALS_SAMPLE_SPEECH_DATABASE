@@ -99,7 +99,7 @@
     const contentDiv = document.getElementById("content");
 
     audioFiles.forEach(file => {
-      const [lang, sev] = file.split('_').slice(0, 2); // "English", "sev0"
+      const [lang, sev] = file.split('_').slice(0, 1); // "English", "sev0"
       const transcriptFile = file.replace('.wav', '.txt');
 
       const card = document.createElement('div');

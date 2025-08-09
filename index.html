@@ -99,7 +99,7 @@
     const contentDiv = document.getElementById("content");
 
     audioFiles.forEach(file => {
-      const [lang, sev] = file.split('_').slice(0, 1); // "English", "sev0"
+      const [lang, sev] = file.split('_').slice(0, 2); // "English", "sev0"
       const transcriptFile = file.replace('.wav', '.txt');
 
       const card = document.createElement('div');
@@ -107,7 +107,7 @@
 
       card.innerHTML = `
         <strong>Language:</strong> ${lang}<br>
-        <strong>Severity:</strong> ${sev.replace("sev", "")}<br>
+        <strong>Severity:</strong> ${sev.replace("sev", "").replace(".wav","")}<br>
         <strong>File:</strong> ${file}<br>
         <audio controls src="${audioDir + file}"></audio>
         <button class="show-btn" onclick="toggleTranscript(this, '${transcriptDir + transcriptFile}')">Show Transcript</button>

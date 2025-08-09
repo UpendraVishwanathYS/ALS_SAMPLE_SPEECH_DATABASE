@@ -2,15 +2,30 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Comparison of Acoustic and Textual Features for Dysarthria Severity Classification in Amyotrophic Lateral Sclerosis</title>
+  <title>Comparison of Acoustic and Textual Features for Dysarthria Severity Classification in ALS</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       padding: 20px;
     }
 
-    h2 {
-      margin-top: 40px;
+    .header {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 20px;
+      margin-bottom: 30px;
+    }
+
+    .logos {
+      display: flex;
+      gap: 15px;
+      flex-wrap: wrap;
+    }
+
+    .logos img {
+      height: 50px; /* Adjust logo height */
+      object-fit: contain;
     }
 
     .grid {
@@ -57,7 +72,14 @@
 </head>
 <body>
 
-  <h1>Comparison of Acoustic and Textual Features for Dysarthria Severity Classification in Amyotrophic Lateral Sclerosis</h1>
+  <div class="header">
+    <h1>Comparison of Acoustic and Textual Features for Dysarthria Severity Classification in ALS</h1>
+    <div class="logos">
+      <img src="icon/ee.png" alt="EE">
+      <img src="icon/iisc_logo.png" alt="IISC">
+      <img src="icon/spire_logo.png" alt="SPIRE Lab">
+    </div>
+  </div>
 
   <div id="content" class="grid">
     <!-- Cards will be dynamically inserted here -->
@@ -67,7 +89,6 @@
     const audioDir = "sample_database/audio_files/";
     const transcriptDir = "sample_database/transcripts/";
 
-    // List your files manually or fetch via backend (not possible with pure HTML)
     const audioFiles = [
       'Tamil_sev0.wav',
       'Bengali_sev0.wav',
@@ -99,7 +120,7 @@
     const contentDiv = document.getElementById("content");
 
     audioFiles.forEach(file => {
-      const [lang, sev] = file.split('_').slice(0, 2); // "English", "sev0"
+      const [lang, sev] = file.split('_').slice(0, 2);
       const transcriptFile = file.replace('.wav', '.txt');
 
       const card = document.createElement('div');

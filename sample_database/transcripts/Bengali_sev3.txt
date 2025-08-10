@@ -1,6 +1,6 @@
 Language: Bengali
 Severity: 3
-Audio File: 59107_152.mp3
+
 
 [ASR1 Transcript]:
 বাট্সাকের খওভার্তে 

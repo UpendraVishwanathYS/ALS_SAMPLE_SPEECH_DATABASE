@@ -1,6 +1,6 @@
 Language: Tamil
 Severity: 3
-Audio File: 59110_167.mp3
+
 
 [ASR1 Transcript]:
 கெட்டு வழி இருக்கிறது 

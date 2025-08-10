@@ -1,6 +1,5 @@
 Language: Telugu
 Severity: 3
-Audio File: 48838_103.mp3
 
 [ASR1 Transcript]:
   

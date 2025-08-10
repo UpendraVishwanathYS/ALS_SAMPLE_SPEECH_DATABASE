@@ -1,6 +1,6 @@
 Language: Telugu
 Severity: 4
-Audio File: 45642_168.mp3
+
 
 [ASR1 Transcript]:
 కట్టింగ్ అస్తున్నారు  

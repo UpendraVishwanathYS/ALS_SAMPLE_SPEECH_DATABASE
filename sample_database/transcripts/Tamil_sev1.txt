@@ -1,6 +1,5 @@
 Language: Tamil
 Severity: 1
-Audio File: 51461_162.mp3
 
 [ASR1 Transcript]:
 ரோம் குவிரல்ல லாவல்ல போன்வும் 

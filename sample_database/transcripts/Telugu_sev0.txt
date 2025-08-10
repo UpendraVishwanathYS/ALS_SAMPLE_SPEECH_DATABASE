@@ -1,6 +1,6 @@
 Language: Telugu
 Severity: 0
-Audio File: 48760_171.mp3
+
 
 [ASR1 Transcript]:
 నపచే  

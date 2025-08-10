@@ -1,6 +1,6 @@
 Language: Bengali
 Severity: 4
-Audio File: 57482_199.mp3
+
 
 [ASR1 Transcript]:
 রাননা করে খামার খেয়ে ভিচ্চা 

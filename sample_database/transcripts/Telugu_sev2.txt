@@ -1,6 +1,6 @@
 Language: Telugu
 Severity: 2
-Audio File: 49548_114.mp3
+
 
 [ASR1 Transcript]:
 ఇరామంతా చేస్తాాు  

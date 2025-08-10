@@ -1,6 +1,5 @@
 Language: Bengali
 Severity: 1
-Audio File: 60010_193.mp3
 
 [ASR1 Transcript]:
 বাডি রারনায় 

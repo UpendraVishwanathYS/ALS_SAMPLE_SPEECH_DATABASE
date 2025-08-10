@@ -1,6 +1,6 @@
 Language: Tamil
 Severity: 4
-Audio File: 45767_81.mp3
+
 
 [ASR1 Transcript]:
 கோட்டுவவர் அவதே. 

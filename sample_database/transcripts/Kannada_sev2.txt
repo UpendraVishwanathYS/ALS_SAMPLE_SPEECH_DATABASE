@@ -1,6 +1,6 @@
 Language: Kannada
 Severity: 2
-Audio File: 50370_31.mp3
+
 
 [ASR1 Transcript]:
 ಉದಗ ದೇದೂವಿ ಉಳಯತ್ಿದ್ದಾನೆ 

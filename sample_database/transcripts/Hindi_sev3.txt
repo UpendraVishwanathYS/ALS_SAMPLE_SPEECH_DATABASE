@@ -1,6 +1,5 @@
 Language: Hindi
 Severity: 3
-Audio File: 50049_75.mp3
 
 [ASR1 Transcript]:
 परवाजेक होटर वाला  

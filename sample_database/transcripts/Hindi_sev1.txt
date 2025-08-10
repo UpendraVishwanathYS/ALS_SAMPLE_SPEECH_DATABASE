@@ -1,6 +1,6 @@
 Language: Hindi
 Severity: 1
-Audio File: 60173_193.mp3
+
 
 [ASR1 Transcript]:
 ज 

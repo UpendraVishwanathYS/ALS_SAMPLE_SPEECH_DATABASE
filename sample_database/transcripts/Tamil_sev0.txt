@@ -1,6 +1,6 @@
 Language: Tamil
 Severity: 0
-Audio File: 45563_22.mp3
+
 
 [ASR1 Transcript]:
 ரங்கநான ரெக 

@@ -1,6 +1,6 @@
 Language: Kannada
 Severity: 1
-Audio File: 59619_105.mp3
+
 
 [ASR1 Transcript]:
 ಹಲಕವೆ 

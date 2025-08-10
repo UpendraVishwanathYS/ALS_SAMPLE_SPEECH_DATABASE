@@ -1,6 +1,6 @@
 Language: Kannada
 Severity: 3
-Audio File: 46505_40.mp3
+
 
 [ASR1 Transcript]:
 ಆರ್ಗೊಳಿತಾದನೆ 

@@ -1,6 +1,6 @@
 Language: Hindi
 Severity: 4
-Audio File: 54626_80.mp3
+
 
 [ASR1 Transcript]:
 क्या को सरकतपलकलएहाथा परलटाइप का रतलि हुए  

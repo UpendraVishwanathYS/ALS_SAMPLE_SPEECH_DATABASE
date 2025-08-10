@@ -1,6 +1,5 @@
 Language: Bengali
 Severity: 0
-Audio File: 51121_6.mp3
 
 [ASR1 Transcript]:
 এইঅ্যানড 

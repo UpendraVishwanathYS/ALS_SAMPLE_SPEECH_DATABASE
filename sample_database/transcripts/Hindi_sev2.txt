@@ -1,6 +1,5 @@
 Language: Hindi
 Severity: 2
-Audio File: 59187_200.mp3
 
 [ASR1 Transcript]:
 बैर फूटे  

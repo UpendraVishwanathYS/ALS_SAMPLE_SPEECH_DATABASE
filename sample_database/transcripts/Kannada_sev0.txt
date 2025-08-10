@@ -1,6 +1,6 @@
 Language: Kannada
 Severity: 0
-Audio File: 45470_193.mp3
+
 
 [ASR1 Transcript]:
 ಆಆೂ ಅಂದಾನನಾ 

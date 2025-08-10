@@ -1,6 +1,6 @@
 Language: Telugu
 Severity: 1
-Audio File: 46989_108.mp3
+
 
 [ASR1 Transcript]:
 ిననశంమతా  

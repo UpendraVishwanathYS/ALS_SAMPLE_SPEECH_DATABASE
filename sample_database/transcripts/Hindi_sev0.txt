@@ -1,6 +1,6 @@
 Language: Hindi
 Severity: 0
-Audio File: 53792_126.mp3
+
 
 [ASR1 Transcript]:
 मानज  

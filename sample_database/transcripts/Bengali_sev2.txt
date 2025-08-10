@@ -1,6 +1,5 @@
 Language: Bengali
 Severity: 2
-Audio File: 58443_64.mp3
 
 [ASR1 Transcript]:
 ও বুমর্র পর্ডার 

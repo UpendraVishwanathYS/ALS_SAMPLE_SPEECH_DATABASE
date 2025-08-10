@@ -1,6 +1,5 @@
 Language: Kannada
 Severity: 4
-Audio File: 48836_162.mp3
 
 [ASR1 Transcript]:
 ಈ ಜತವದಲ್ಲಿ ಪೋರಕರ ಮಿಕರೂ ಸ್ವಚ್ಯತೆ ಮಾರ್ದಾಯದಲೆ 
